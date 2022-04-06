@@ -1,0 +1,15 @@
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/collections_practice.deps.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/collections_practice.runtimeconfig.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/collections_practice.runtimeconfig.dev.json
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/collections_practice.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/ref/collections_practice.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/bin/Debug/net5.0/collections_practice.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.csproj.AssemblyReference.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.AssemblyInfoInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.AssemblyInfo.cs
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.csproj.CoreCompileInputs.cache
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/ref/collections_practice.dll
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.pdb
+/Users/nicholashernandez/Desktop/C#/C#_fundamentals/collections_practice/obj/Debug/net5.0/collections_practice.genruntimeconfig.cache
